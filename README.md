@@ -114,7 +114,7 @@ The course is organized as a reading course. Each student will be required to pe
 -->
 ---
 ### Contact
-Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
+Contact [Zekarias T. Kefato](https://zekarias-tilahun.github.io/zekarias/) if you have any question.
 
 <!--
 # Enrollment
