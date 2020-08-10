@@ -1,23 +1,23 @@
 <center><a href="https://dcatkth.github.io/"><img src="research.jpg" width="1400" height="165" align="center"></a></center>
 
-# The Course Title
-Reading Course on **Advanced Course in Data Mining and Analytics**
-
+# Advanced Course in Data Mining and Analytics
+<!-- Reading Course on **Advanced Course in Data Mining and Analytics**
+ -->
 ---
-# The Course Content
+## The Course Content
 <p align="justify">
 This course is a graduate reading course that will cover the research works of the last two years in the area of Big Data Mining and Analytics. A particular focus will be given to the algorithms and systems on large scale graph processing, stream processing, social network analytics and decentralized machine learning. Every participant should find their own relevant research literature, read and analyze its contributions, give a presentation on the material and actively contribute to the group discussions, as well as write a short report on the paper. 
 <!--This course is given in the distributed computing group at KTH (<a href="https://dcatkth.github.io/">DC@KTH</a>).-->
 </p>
 
 ---
-# Intended Learning Outcomes (ILO)
+## Intended Learning Outcomes (ILO)
 <p align="justify">
 After the course the student will be able to discuss, analyze, present, and critically review the very latest research advancements in the areas of Big Data Mining and Analytics and make connections to knowledge in related fields. The student will also be able to assess and evaluate new emerging trends as well as to identify the need for further knowledge in the field.
 </p>
 
 ---
-# Course Disposition
+## Course Disposition
 <p align="justify">
 The course is organized as a reading course. Each student will be required to perform the following tasks:
 <ul>
@@ -113,7 +113,7 @@ The course is organized as a reading course. Each student will be required to pe
 * [[justification](/justification/susanna.txt)] [[slides](/slides/sussana_20200325.pdf)] [[review](/slides/sussana_paper_review.pdf)]
 -->
 ---
-# Contact
+### Contact
 Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
 
 <!--
