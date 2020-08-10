@@ -1,18 +1,19 @@
 <center><a href="https://dcatkth.github.io/"><img src="research.jpg" width="1400" height="165" align="center"></a></center>
 
 # The Course Title
-Reading Course on **Advanced Topics in Distributed Systems**
+Reading Course on **Advanced Course in Data Mining and Analytics**
 
 ---
 # The Course Content
 <p align="justify">
-This course is a graduate reading course that will cover the advanced topics in distributed systems, including but not limited to distributed learning, gossip-based learning, graph neural networks, and large scale graph processing. Every participant should find their own relevant research papers, read and analyze their contributions, give a presentation on the material and actively contribute to the group discussions, as well as write a short report on the selected papers. This course is given in the distributed computing group at KTH (<a href="https://dcatkth.github.io/">DC@KTH</a>).
+This course is a graduate reading course that will cover the research works of the last two years in the area of Big Data Mining and Analytics. A particular focus will be given to the algorithms and systems on large scale graph processing, stream processing, social network analytics and decentralized machine learning. Every participant should find their own relevant research literature, read and analyze its contributions, give a presentation on the material and actively contribute to the group discussions, as well as write a short report on the paper. 
+<!--This course is given in the distributed computing group at KTH (<a href="https://dcatkth.github.io/">DC@KTH</a>).-->
 </p>
 
 ---
 # Intended Learning Outcomes (ILO)
 <p align="justify">
-After the course the student will be able to discuss, analyze, present, and critically review the very latest research advancements in the areas of distributed systems and learning and make connections to knowledge in related fields. The student will also be able to assess and evaluate new emerging trends as well as to identify the need for further knowledge in the field.
+After the course the student will be able to discuss, analyze, present, and critically review the very latest research advancements in the areas of Big Data Mining and Analytics and make connections to knowledge in related fields. The student will also be able to assess and evaluate new emerging trends as well as to identify the need for further knowledge in the field.
 </p>
 
 ---
@@ -20,7 +21,7 @@ After the course the student will be able to discuss, analyze, present, and crit
 <p align="justify">
 The course is organized as a reading course. Each student will be required to perform the following tasks:
 <ul>
-<li><p align="justify"><b>Task 1:</b> identity your relevant research literature under the topic of distirbuted systems, with a focus on distributed learning, gossip-based learning, graph neural networks, large scale graph processing, or similar. Scan the related literature and select three papers that you would like to review. It would be better that the papers tackle the same problem, or are related to the application of the same discipline/approach to different problems. The key point to observe is that the selected papers share some common ground based on which they could be compared against each other.</p></li>
+<li><p align="justify"><b>Task 1:</b> identity your relevant research literature under the topic of advanced data mining and analytics, with a focus on large scale graph processing, stream processing, social network analytics and decentralized machine learning, graph neural networks, or similar. Scan the related literature and select three papers that you would like to review. It would be better that the papers tackle the same problem, or are related to the application of the same discipline/approach to different problems. The key point to observe is that the selected papers share some common ground based on which they could be compared against each other.</p></li>
 <li><p align="justify"><b>Task 2:</b> write a short justification paragraph to explain your choice of the selected papers. Note that, at this stage, you are not required to read the papers in detail. The paragraph should mostly focus on why you are more interested in the selected focused topic, and how you think your selected papers relate to it (e.g., they address the same research question, they apply different approaches to the same problem).</li>
 <li><p align="justify"><b>Task 3:</b> carefully read, analyze, and compare the selected papers to prepare an oral presentation. The presentation should not only present what is in the papers, but mostly contrast and compare their approaches, contributions, and shortcomings, possibly getting/giving insights on related future research. The presentation should be delivered during one of our regular seminar sessions.</li>
 <li><p align="justify"><b>Task 4:</b> write a critical review of the papers that covers in particular the summary of contributions, solutions, significance, and technical/experimental quality.</li>
@@ -30,7 +31,7 @@ The course is organized as a reading course. Each student will be required to pe
 </ul>
 </p>
 
-# Papers and Schedule
+<!--# Papers and Schedule
 **November 4, 2019 - <a href="mailto:zainabab@kth.se">Zainab Abbas</a>** (opponent: Sana Imtiaz)
 * A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
@@ -79,13 +80,13 @@ The course is organized as a reading course. Each student will be required to pe
 * Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
 * [[justification](/justification/stefanos.txt)] [[slides](/slides/stefanos_20200226.pdf)] [[review](/slides/stefanos_paper_review.pdf)]
 
-<!--
+
 **February 24, 2020 - <a href="mailto:negars@kth.se">Negar Safinianaini</a>** (opponent: Amir Hossein Rahnama)
 * zipHMMlib: A Highly Optimised HMM Library Exploiting Repetitions in the Input to Speed Up the Forward Algorithm [[pdf](https://github.com/dcatkth/readinggroup/blob/master/papers/zipHMMlib:%20A%20Highly%20Optimised%20HMM%20Library%20Exploiting%20Repetitions%20in%20the%20Input%20to%20Speed%20Up%20the%20Forward%20Algorithm.pdf)]
 * Fast Bayesian Inference of Copy Number Variants using Hidden Markov Models with Wavelet Compression [[pdf](/papers/Fast%20Bayesian%20Inference%20of%20Copy%20Number%20Variants%20using%20Hidden%20Markov%20Models%20with%20Wavelet%20Compression.PDF)]
 * Spectral Learning of Mixture of Hidden Markov Models [[pdf](/papers/Spectral%20Learning%20of%20Mixture%20of%20Hidden%20Markov%20Models.pdf)]
 * [[justification](/justification/negar.txt)] [slides]
--->
+
 
 **March 4, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a>** 
 * CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers [[pdf](/papers/CoPart:%20Coordinated%20Partitioning%20of%20Last-Level%20Cache%20and%20Memory%20Bandwidth%20for%20Fairness-Aware%20Workload%20Consolidation%20on%20Commodity%20Servers.pdf)]
@@ -110,7 +111,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
 * Leveraging Multiple GPUs and CPUs for Graphlet Counting in Large Networks [[pdf](/papers/Leveraging%20Multiple%20GPUs%20and%20CPUs%20for%20Graphlet%20Counting%20in%20Large%20Networks.pdf)]
 * [[justification](/justification/susanna.txt)] [[slides](/slides/sussana_20200325.pdf)] [[review](/slides/sussana_paper_review.pdf)]
-
+-->
 ---
 # Contact
 Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
