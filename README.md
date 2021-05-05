@@ -1,23 +1,31 @@
 <center><a href="https://dcatkth.github.io/"><img src="research.jpg" width="1400" height="165" align="center"></a></center>
 
 # Advanced Course in Data Mining and Analytics
+
 <!-- Reading Course on **Advanced Course in Data Mining and Analytics**
  -->
+
 ---
+
 ## The Course Content
+
 <p align="justify">
 This course is a graduate reading course that will cover the research works of the last two years in the area of Big Data Mining and Analytics. A particular focus will be given to the algorithms and systems on large scale graph processing, stream processing, social network analytics and decentralized machine learning. Every participant should find their own relevant research literature, read and analyze its contributions, give a presentation on the material and actively contribute to the group discussions, as well as write a short report on the paper. 
 <!--This course is given in the distributed computing group at KTH (<a href="https://dcatkth.github.io/">DC@KTH</a>).-->
 </p>
 
 ---
+
 ## Intended Learning Outcomes (ILO)
+
 <p align="justify">
 After the course the student will be able to discuss, analyze, present, and critically review the very latest research advancements in the areas of Big Data Mining and Analytics and make connections to knowledge in related fields. The student will also be able to assess and evaluate new emerging trends as well as to identify the need for further knowledge in the field.
 </p>
 
 ---
+
 ## Course Disposition
+
 <p align="justify">
 The course is organized as a reading course. Each student will be required to perform the following tasks:
 <ul>
@@ -25,8 +33,8 @@ The course is organized as a reading course. Each student will be required to pe
 <li><p align="justify"><b>Task 2:</b> write a short justification paragraph to explain your choice of the selected papers. Note that, at this stage, you are not required to read the papers in detail. The paragraph should mostly focus on why you are more interested in the selected focused topic, and how you think your selected papers relate to it (e.g., they address the same research question, they apply different approaches to the same problem).</li>
 <li><p align="justify"><b>Task 3:</b> carefully read, analyze, and compare the selected papers to prepare an oral presentation. The presentation should not only present what is in the papers, but mostly contrast and compare their approaches, contributions, and shortcomings, possibly getting/giving insights on related future research. The presentation should be delivered during one of our regular seminar sessions.</li>
 <li><p align="justify"><b>Task 4:</b> write a critical review of the papers that covers in particular the summary of contributions, solutions, significance, and technical/experimental quality.</li>
-<li><p align="justify"><b>Task 5:</b> choose one of your peers presentations to oppose. You will need to read the papers as well and have a general understanding of their content, contributions, and possible noticed limitations. You have to attend the presentation of your opponent, and to take careful notes on how you perceived its quality, both in terms of content, suitability of the chosen papers and the links between them, and quality of presenting.</li>
-<li><p align="justify"><b>Task 6:</b> deliver a written report reviewing your opponent’s work. The review should present objective arguments on what you think are the strengths and weaknesses of the opposed presentation. The report should clearly explain why or why not you think that the selected papers fit within the course’s topic, how the presentation has been fair to explaining the content of the papers, as well as what were the presentations strong points and possible shortcomings.</li>
+<li><p align="justify"><b>Task 5:</b> choose two of your peers presentations to oppose. You will need to read the papers as well and have a general understanding of their content, contributions, and possible noticed limitations. You have to attend the presentation of your opponent, and to take careful notes on how you perceived its quality, both in terms of content, suitability of the chosen papers and the links between them, and quality of presenting.</li>
+<li><p align="justify"><b>Task 6:</b> deliver written reports reviewing your opponents' work. The reviews should present objective arguments on what you think are the strengths and weaknesses of the opposed presentation. The reports should clearly explain why or why not you think that the selected papers fit within the course’s topic, how the presentation has been fair to explaining the content of the papers, as well as what were the presentations strong points and possible shortcomings.</li>
 <li><p align="justify"><b>Task 7:</b> a minimum of 75% attendance in seminars.</li>
 </ul>
 </p>
@@ -88,7 +96,7 @@ The course is organized as a reading course. Each student will be required to pe
 * [[justification](/justification/negar.txt)] [slides]
 
 
-**March 4, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a>** 
+**March 4, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a>**
 * CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers [[pdf](/papers/CoPart:%20Coordinated%20Partitioning%20of%20Last-Level%20Cache%20and%20Memory%20Bandwidth%20for%20Fairness-Aware%20Workload%20Consolidation%20on%20Commodity%20Servers.pdf)]
 * PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services [[pdf](/papers/PARTIES:%20QoS-Aware%20Resource%20Partitioning%20for%20Multiple%20Interactive%20Services.pdf)]
 * SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support [[pdf](/papers/SWAP:%20Effective%20Fine-Grain%20Management%20of%20Shared%20Last-Level%20Caches%20with%20Minimum%20Hardware%20Support.pdf)]
@@ -112,8 +120,11 @@ The course is organized as a reading course. Each student will be required to pe
 * Leveraging Multiple GPUs and CPUs for Graphlet Counting in Large Networks [[pdf](/papers/Leveraging%20Multiple%20GPUs%20and%20CPUs%20for%20Graphlet%20Counting%20in%20Large%20Networks.pdf)]
 * [[justification](/justification/susanna.txt)] [[slides](/slides/sussana_20200325.pdf)] [[review](/slides/sussana_paper_review.pdf)]
 -->
+
 ---
+
 ### Contact
+
 Contact [Zekarias T. Kefato](https://zekarias-tilahun.github.io/zack/) if you have any question.
 
 <!--

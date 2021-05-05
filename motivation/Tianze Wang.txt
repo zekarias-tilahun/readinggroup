@@ -1,0 +1,12 @@
+Training complex deep neural network (DNN) models requires an increasing amount of computation and it
+becomes typical for researchers to speed up the training process through parallelization by utilizing a mixture
+of devices (e.g., CPUs, GPUs). One common way to perform parallelization is data parallelism where data is
+distributed across multiple devices that each holds a complete copy of the model. In model parallelism, on the
+other hand, we partition the model itself. However, the efficient placement of computational graphs (DNN
+models) onto hardware devices is not a trivial problem.
+
+In this session, we will discuss some of the efforts that researchers have made to automate the process of
+device placement to speed up the training process. We will start with a classical hierarchical approach for
+device placement using reinforcement learning and then see how cross-entropy minimization and proximal
+policy optimization can be integrated to improve efficiency. We will end the session with some short
+discussions of the pros and cons as well as possible alternatives for approaching the device problem.
